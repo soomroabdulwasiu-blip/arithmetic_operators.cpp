@@ -1,17 +1,32 @@
-# Arithmetic Operators in C++
+# 🧮 Arithmetic Operators in C++
 
 ## 📘 Description
 This program demonstrates the use of **arithmetic operators** in C++.  
-It takes two numbers from the user and performs the following operations:
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`*`)
-- Division (`/`)
-- Modulus (`%`)
+It allows the user to input two numbers and performs all basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
+
+## ⚙️ Operators Covered
+- `+` → Addition  
+- `-` → Subtraction  
+- `*` → Multiplication  
+- `/` → Division  
+- `%` → Modulus  
+
+## 🧠 Example Output
+Enter two numbers: 10 3
+Addition = 13
+Subtraction = 7
+Multiplication = 30
+Division = 3.33333
+Modulus = 1
 
 ## 🛠️ Concepts Used
-- Basic Input/Output
-- Arithmetic Operators
-- Type Casting (for float division)
+- Arithmetic Operators  
+- Type Casting  
+- Basic Input/Output  
 
+---
 
+## 👨‍💻 Author
+**Name:** Abdul Wasiu
+**About Me:** I’m a passionate **Software Engineering student at Mehran University of Engineering and Technology Shaheed Zulifqar Ali bhutto Khairpur Campus ** who loves learning and building real-world projects in **C++ and programming logic**.  
+GitHub is my journey to improve step by step 🚀
