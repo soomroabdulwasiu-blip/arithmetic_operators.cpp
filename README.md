@@ -13,10 +13,15 @@ It allows the user to input two numbers and performs all basic arithmetic operat
 
 ## 🧠 Example Output
 Enter two numbers: 10 3
+<br>
 Addition = 13
+<br>
 Subtraction = 7
+<br>
 Multiplication = 30
+<br>
 Division = 3.33333
+<br>
 Modulus = 1
 
 ## 🛠️ Concepts Used
