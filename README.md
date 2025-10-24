@@ -28,5 +28,6 @@ Modulus = 1
 
 ## 👨‍💻 Author
 **Name:** Abdul Wasiu
-**About Me:** I’m a passionate **Software Engineering student at Mehran University of Engineering and Technology Shaheed Zulifqar Ali bhutto Khairpur Campus ** who loves learning and building real-world projects in **C++ and programming logic**.  
+<br>
+**About Me:** I’m a passionate **Software Engineering student at Mehran University of Engineering and Technology Shaheed Zulifqar Ali bhutto Khairpur Campus ** I love learning and building real-world projects in **C++ and programming logic**.  
 GitHub is my journey to improve step by step 🚀
